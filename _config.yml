@@ -1,0 +1,28 @@
+name: Buitengewoon leven
+favicon: null
+layout_spectrum: 0.08921989286318421
+typography_spectrum: 0.5592683188151568
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.47672499413602054
+  lightness: 0.17074543423950672
+  saturation: 0.8930054921656847
+  rhythmicContrast: 0.9347516156267375
+purpose: []
